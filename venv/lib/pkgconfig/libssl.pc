@@ -1,9 +1,0 @@
-libdir=/Users/xpliq/benchmarking-personas/venv/lib
-includedir=/Users/xpliq/benchmarking-personas/venv/include
-
-Name: OpenSSL-libssl
-Description: Secure Sockets Layer and cryptography libraries
-Version: 3.3.0
-Requires.private: libcrypto
-Libs: -L${libdir} -lssl
-Cflags: -I${includedir}
