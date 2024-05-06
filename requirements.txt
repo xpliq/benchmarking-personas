@@ -1,5 +1,6 @@
 pandas
 openai
+dotenv
 datasets
 wikipedia
 evaluate
