@@ -1,0 +1,6 @@
+pandas
+openai
+datasets
+wikipedia
+evaluate
+-e .
