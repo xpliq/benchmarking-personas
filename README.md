@@ -46,3 +46,17 @@ Example
 # Data
 
 - WikiQA
+
+### Result Mean Values
+
+##### Persona Responses
+- rouge1: 0.1540348498741638
+- rouge2: 0.04250547528205004
+- rougeL: 0.10385418694215125
+- rougeLsum: 0.10519427848454284
+
+##### Instruction Responses
+- rouge1: 0.1535807634398431
+- rouge2: 0.04051400012115329
+- rougeL: 0.10121977013988975
+- rougeLsum: 0.10370625810853101
