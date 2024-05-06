@@ -1,0 +1,11 @@
+libdir=/Users/xpliq/benchmarking-personas/venv/lib
+includedir=/Users/xpliq/benchmarking-personas/venv/include
+enginesdir=/Users/xpliq/benchmarking-personas/venv/lib/engines-3
+modulesdir=/Users/xpliq/benchmarking-personas/venv/lib/ossl-modules
+
+Name: OpenSSL-libcrypto
+Description: OpenSSL cryptography library
+Version: 3.3.0
+Libs: -L${libdir} -lcrypto
+Libs.private: 
+Cflags: -I${includedir}
